@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: template.aux
+The style file: IEEEtranS.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references.bib
+Warning--entry type for "yaffs" isn't style-file defined
+--line 36 of file references.bib
+Warning--entry type for "ext4journal" isn't style-file defined
+--line 42 of file references.bib
+Warning--entry type for "alarm" isn't style-file defined
+--line 48 of file references.bib
+Warning--I didn't find a database entry for "lamport94"
+Warning--I didn't find a database entry for "nicepaper"
+Warning--I didn't find a database entry for "nicepaper2"
+Warning--I didn't find a database entry for "bstctl:etal"
+Warning--I didn't find a database entry for "bstctl:nodash"
+Warning--I didn't find a database entry for "bstctl:simpurl"
+-- IEEEtranS.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting version - not for normal IEEE work.
+Warning--to sort, need author or key in polipo
+Warning--to sort, need author or key in alarm
+Warning--to sort, need author or key in yaffs
+Warning--to sort, need author or key in ext4journal
+Warning--to sort, need author or key in siege
+
+Done.
+You've used 8 entries,
+            4498 wiz_defined-function locations,
+            939 strings with 9155 characters,
+and the built_in function-call counts, 5213 in all, are:
+= -- 443
+> -- 95
+< -- 25
++ -- 51
+- -- 20
+* -- 271
+:= -- 794
+add.period$ -- 17
+call.type$ -- 8
+change.case$ -- 34
+chr.to.int$ -- 63
+cite$ -- 13
+duplicate$ -- 349
+empty$ -- 444
+format.name$ -- 24
+if$ -- 1145
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 67
+newline$ -- 63
+num.names$ -- 8
+pop$ -- 221
+preamble$ -- 1
+purify$ -- 25
+quote$ -- 2
+skip$ -- 371
+stack$ -- 0
+substring$ -- 193
+swap$ -- 226
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 88
+warning$ -- 5
+while$ -- 18
+width$ -- 9
+write$ -- 102
+(There were 14 warnings)
